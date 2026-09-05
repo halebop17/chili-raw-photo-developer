@@ -1,22 +1,17 @@
 <div align="center">
 
-<img src="assets/hero-macbook.png" alt="Chili RAW on a MacBook Pro" width="900">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/wordmark-dark.png">
+  <img src="assets/wordmark-light.png" alt="Chili RAW" width="230">
+</picture>
 
-<br>
+### A photo culler, RAW developer, and asset manager, built just for the modern Mac.
 
-![macOS 15+](https://img.shields.io/badge/macOS-15%2B-1c1c1e?style=flat-square&logo=apple&logoColor=white)
-![Apple silicon](https://img.shields.io/badge/Apple%20silicon-M1%20or%20newer-1c1c1e?style=flat-square)
-![Version](https://img.shields.io/badge/version-1.0.0-E5402A?style=flat-square)
-![Free](https://img.shields.io/badge/Chili%20RAW%20Free-free%20forever-2e9e5b?style=flat-square)
-![Pro](https://img.shields.io/badge/Pro-%2429.99%20once-F5194E?style=flat-square)
-[![Manual](https://img.shields.io/badge/manual-wiki-4a6fa5?style=flat-square)](https://github.com/halebop17/chili-raw-photo-developer/wiki)
-[![Issues](https://img.shields.io/github/issues/halebop17/chili-raw-photo-developer?style=flat-square&color=6b5b95)](https://github.com/halebop17/chili-raw-photo-developer/issues)
+`macOS 15+`  `Apple silicon`  `v1.0.0`  `Free forever`  `Pro $29.99 once`  `No subscription`
+
+<img src="assets/hero-macbook.png" alt="Chili RAW on a MacBook Pro" width="880">
 
 </div>
-
-# Chili RAW
-
-> A photo culler, RAW developer, and asset manager, built just for the modern Mac.
 
 Chili RAW takes a card full of frames and gets you to finished pictures — cull the shoot,
 develop the keepers, and keep your whole library searchable, all in one window and all on
@@ -26,24 +21,13 @@ It runs on Apple silicon and nothing else. The develop pipeline is built on Meta
 Core Image, the AI runs on the Neural Engine, and the interface is native AppKit and
 SwiftUI rather than an imitation of one.
 
-<div align="center">
-
 <table>
 <tr>
-<td align="center" width="420">
-<h3>⬇︎ Download Chili RAW</h3>
-<p>The free version is fully featured.<br>macOS 15 or later, Apple silicon.</p>
-<p><b><a href="https://github.com/halebop17/chili-raw-photo-developer/releases/latest">Get the latest release →</a></b></p>
-</td>
-<td align="center" width="420">
-<h3>📖 Read the manual</h3>
-<p>Every part of the app, chapter by chapter,<br>from a first cull to the darkroom.</p>
-<p><b><a href="https://github.com/halebop17/chili-raw-photo-developer/wiki">Open the manual →</a></b></p>
-</td>
+<td width="33%"><sub><b>DOWNLOAD</b></sub><br><a href="https://github.com/halebop17/chili-raw-photo-developer/releases/latest">Get the latest release&nbsp;→</a><br><sub>Free, fully featured, no account.</sub></td>
+<td width="33%"><sub><b>MANUAL</b></sub><br><a href="https://github.com/halebop17/chili-raw-photo-developer/wiki">Open the manual&nbsp;→</a><br><sub>Every part of the app, chapter by chapter.</sub></td>
+<td width="33%"><sub><b>SOMETHING WRONG?</b></sub><br><a href="https://github.com/halebop17/chili-raw-photo-developer/issues">File an issue&nbsp;→</a><br><sub>Read and answered in public.</sub></td>
 </tr>
 </table>
-
-</div>
 
 ---
 
@@ -150,22 +134,6 @@ that looks like a bug, four things make it fixable in one pass:
 
 ---
 
-## About this repository
-
-This is where Chili RAW is **distributed and supported** — releases, the manual, and issues.
-The application's source is not in here.
-
-## Built on the work of others
-
-Chili RAW bundles or builds on ExifTool (Phil Harvey), libjxl / jpegli, LibRaw, the Adobe DNG
-SDK, the Lensfun calibration database, GeoNames place data (CC BY 4.0), Marco S Hyman's GeoTag
-(MIT), and Jan Lohse's spectral_film_lut as a reference for the film pipeline. The optional AI
-models are open models, each under its own licence — the app lists every one under
-**Settings ▸ AI ▸ Model Licenses**.
-
-<!-- TODO: ship NOTICE alongside the app and link it here. -->
-
----
 
 <div align="center">
 
