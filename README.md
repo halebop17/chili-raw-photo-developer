@@ -28,9 +28,20 @@ SwiftUI rather than an imitation of one.
 
 <div align="center">
 
-|  |  |
-|:---:|:---:|
-| ### ⬇︎ Download Chili RAW<br>The free version is fully featured.<br>macOS 15+, Apple silicon.<br><br>**[Get the latest release →](https://github.com/halebop17/chili-raw-photo-developer/releases/latest)** | ### 📖 Read the manual<br>Every part of the app, chapter by chapter,<br>from a first cull to the darkroom.<br><br>**[Open the manual →](https://github.com/halebop17/chili-raw-photo-developer/wiki)** |
+<table>
+<tr>
+<td align="center" width="420">
+<h3>⬇︎ Download Chili RAW</h3>
+<p>The free version is fully featured.<br>macOS 15 or later, Apple silicon.</p>
+<p><b><a href="https://github.com/halebop17/chili-raw-photo-developer/releases/latest">Get the latest release →</a></b></p>
+</td>
+<td align="center" width="420">
+<h3>📖 Read the manual</h3>
+<p>Every part of the app, chapter by chapter,<br>from a first cull to the darkroom.</p>
+<p><b><a href="https://github.com/halebop17/chili-raw-photo-developer/wiki">Open the manual →</a></b></p>
+</td>
+</tr>
+</table>
 
 </div>
 
